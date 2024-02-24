@@ -1,0 +1,28 @@
+.header1{
+    background-color: coral;
+    background-attachment: fixed;
+    border: solid 20px magenta;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 400px;
+    text-align: center;
+    font-size: 35px;
+    font-family: "Times New Roman", serif;
+    box-shadow: 10px 10px 50px lightblue;
+    margin-top: 200px;
+}
+.header1:hover {
+    background-color: black;
+    color: aqua;
+}
+body {
+    /*background-color: aquamarine;*/
+    background-image: url("tryone.jpeg");
+    background-size: cover;
+}
+a:visited, a{
+    color: lightyellow;
+}
+a:hover{
+    color: blue;
+}
