@@ -1,0 +1,9 @@
+.container{
+    background-attachment: fixed;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 50px;
+}
